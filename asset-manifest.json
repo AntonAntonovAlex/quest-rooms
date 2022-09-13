@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.js": "/quest-rooms/static/js/main.a7eac31b.chunk.js",
+    "main.js.map": "/quest-rooms/static/js/main.a7eac31b.chunk.js.map",
+    "runtime-main.js": "/quest-rooms/static/js/runtime-main.9feca841.js",
+    "runtime-main.js.map": "/quest-rooms/static/js/runtime-main.9feca841.js.map",
+    "static/css/2.c3ff3e26.chunk.css": "/quest-rooms/static/css/2.c3ff3e26.chunk.css",
+    "static/js/2.ae8989e6.chunk.js": "/quest-rooms/static/js/2.ae8989e6.chunk.js",
+    "static/js/2.ae8989e6.chunk.js.map": "/quest-rooms/static/js/2.ae8989e6.chunk.js.map",
+    "index.html": "/quest-rooms/index.html",
+    "static/css/2.c3ff3e26.chunk.css.map": "/quest-rooms/static/css/2.c3ff3e26.chunk.css.map",
+    "static/js/2.ae8989e6.chunk.js.LICENSE.txt": "/quest-rooms/static/js/2.ae8989e6.chunk.js.LICENSE.txt",
+    "static/media/contacts-bg.3cccde2f.jpg": "/quest-rooms/static/media/contacts-bg.3cccde2f.jpg",
+    "static/media/icon-adventures.9c0e5812.svg": "/quest-rooms/static/media/icon-adventures.9c0e5812.svg",
+    "static/media/icon-all-quests.d0178c19.svg": "/quest-rooms/static/media/icon-all-quests.d0178c19.svg",
+    "static/media/icon-clock.9e203b78.svg": "/quest-rooms/static/media/icon-clock.9e203b78.svg",
+    "static/media/icon-close.424bcac5.svg": "/quest-rooms/static/media/icon-close.424bcac5.svg",
+    "static/media/icon-detective.11929503.svg": "/quest-rooms/static/media/icon-detective.11929503.svg",
+    "static/media/icon-horrors.da41833d.svg": "/quest-rooms/static/media/icon-horrors.da41833d.svg",
+    "static/media/icon-instagram-hover.82c1524d.svg": "/quest-rooms/static/media/icon-instagram-hover.82c1524d.svg",
+    "static/media/icon-mystic.99b7056a.svg": "/quest-rooms/static/media/icon-mystic.99b7056a.svg",
+    "static/media/icon-person.b78163cb.svg": "/quest-rooms/static/media/icon-person.b78163cb.svg",
+    "static/media/icon-puzzle.cc0880f8.svg": "/quest-rooms/static/media/icon-puzzle.cc0880f8.svg",
+    "static/media/icon-scifi.b8950933.svg": "/quest-rooms/static/media/icon-scifi.b8950933.svg",
+    "static/media/icon-tick.e33f85c3.svg": "/quest-rooms/static/media/icon-tick.e33f85c3.svg",
+    "static/media/icon-vk-hover.41069e22.svg": "/quest-rooms/static/media/icon-vk-hover.41069e22.svg",
+    "static/media/logo.74c02aa7.svg": "/quest-rooms/static/media/logo.74c02aa7.svg",
+    "static/media/raleway-black.172ef2e7.woff2": "/quest-rooms/static/media/raleway-black.172ef2e7.woff2",
+    "static/media/raleway-bold.c8eceb37.woff2": "/quest-rooms/static/media/raleway-bold.c8eceb37.woff2",
+    "static/media/raleway-extrabold.880f907a.woff2": "/quest-rooms/static/media/raleway-extrabold.880f907a.woff2",
+    "static/media/raleway-medium.0c206b62.woff2": "/quest-rooms/static/media/raleway-medium.0c206b62.woff2",
+    "static/media/raleway-regular.32f1ff58.woff2": "/quest-rooms/static/media/raleway-regular.32f1ff58.woff2",
+    "static/media/raleway-semibold.e26f87cb.woff2": "/quest-rooms/static/media/raleway-semibold.e26f87cb.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9feca841.js",
+    "static/css/2.c3ff3e26.chunk.css",
+    "static/js/2.ae8989e6.chunk.js",
+    "static/js/main.a7eac31b.chunk.js"
+  ]
+}
